@@ -6,4 +6,4 @@ Proyek ini menganalisis data historis saham BBCA dan melakukan prediksi mengguna
 
 Notebook dapat dijalankan secara interaktif menggunakan Google Colab dengan menekan tombol berikut:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hendrasetyawan2501/prediksi-saham-bbca/blob/main/ragyahooprophet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hendrasetyawan2501/prediksi-analisis-saham/blob/main/ragyahooprophet.ipynb)
