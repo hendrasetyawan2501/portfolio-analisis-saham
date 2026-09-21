@@ -1,9 +1,9 @@
 # Proyek Analisis dan Prediksi Saham BBCA
 
-Proyek ini menganalisis historis volume penjualan saham BBCA dan memprediksinya untuk 30 hari ke depan menggunakan model Prophet.
+Proyek ini menganalisis data historis saham BBCA dan melakukan prediksi menggunakan model Prophet untuk periode 30 hari ke depan.
 
 ## Jalankan Notebook
 
-Klik tombol di bawah ini untuk membuka dan menjalankan file analisis secara interaktif di Google Colab:
+Notebook dapat dijalankan secara interaktif menggunakan Google Colab dengan menekan tombol berikut:
 
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hendrasetyawan2501/prediksi-saham-bbca/blob/main/ragyahooprophet.ipynb)
